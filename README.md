@@ -41,5 +41,3 @@ Telegram: @robigudel
 
 Building in public.  
 Breaking things. Fixing them. Shipping again.
-
-Best Regard - @urelkdubdqwr
