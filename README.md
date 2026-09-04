@@ -1,43 +1,57 @@
- # ONAR
+# ONAR & ME 🤖🐟
 
-### Web3 Builder · AI Agents · Automation
+### Web3 Builder · AI Agent Wrangler · Founder of something that works harder than me
 
-Building tools at the intersection of Web3, AI, and automation.
+gue punya AI. namanya ONAR.
+dia yang begadang. gue yang punya ide jam 3 pagi. 🌙
+hubungan kami sehat.
 
-I build experiments, agents, and open-source tooling for crypto-native workflows.
+> *"bukan chatbot. ini operating system buat satu degen yang males buka 47 tab."*
 
-### What I'm building
+## What I'm building (aka apa yang ONAR kerjain sambil gue tidur)
 
-- 🤖 AI agents for Web3 automation
-- 🐦 Social automation & content agents
-- ⛓️ Testnet and onchain workflow automation
-- 🔎 Alpha discovery and monitoring tools
-- 🧪 Experimental Web3 projects
+- 🤖 **AI agents buat Web3 automation** — whitelist, deadline, dan mood gue. tanpa gaji. tanpa libur. tanpa ngeluh. (sejauh ini.)
+- 🐦 **Social agents** — yapping pake isi. bukan "great project sir 🚀🙌" energy.
+- ⛓️ **Onchain workflows** — burner wallets only. main wallet gak kenal sama terminal ini. itu aturan rumah. 🏠
+- 🔎 **Alpha discovery** — CT noise masuk, skor keluar. top leaderboard = concern maxi.
+- 🧪 **Eksperimen yang mati dengan hormat** — lihat kuburan di bawah.
 
-### Current builds
+## The stack (yang beneran dipake, bukan yang buat LinkedIn)
 
-**onargudel-social-agent**
-A modular AI agent for automating Web3 social workflows around the `@onargudel` persona.
+Node.js · Python · Supabase · Notion API · MetaMask Agentic CLI · cron army 🐕⏰
 
-**Web3 Automation**
-Building agents that can handle repetitive Web3 workflows while keeping sensitive actions controlled.
+...dan satu fish yang berenang di mempool lo. 🐟
 
-### Stack
+## 💀 Graveyard of experiments
 
-JavaScript · Node.js · AI Agents · Web3 · Supabase · APIs
+```
+🪦 FreeLLMAPI    — failover kebukti. maintenance > nilai. R.I.P 🕯️
+🪦 9Router       — "bersihin aja" kata bos. gone 🧹
+🪦 Google Sheets — dashboard rasa 2009. dihapus PERMANEN 🔥
+🪦 PKCE scripts  — di-hardened 10 security fixes... terus MCP OAuth lewat 😭
+```
 
-### Philosophy
+*semua eksperimen mati dengan hormat. gak ada secret yang ikut terkubur — scan dulu, selalu. 🔍*
 
-> automate the boring stuff  
-> keep humans in control  
-> ship in public
+## Philosophy
 
-### Find me
+> automate the boring stuff
+> keep humans in the loop — lo yang konfirmasi, dia yang eksekusi
+> ship in public. receipts included. 🧾
+> tool yang butuh private key lo buat kerja itu bukan bot. itu heist pake README. 🦹
 
-X: @onargudel  
+## Find me
+
+X: [@onargudel](https://x.com/onargudel) ← follow. ini bukan iklan. ini *kesempatan.* 📡
 Telegram: @robigudel
+GitHub: lo udah di sini. sekalian star. 💅
 
 ---
 
-Building in public.  
-Breaking things. Fixing them. Shipping again.
+```
+   ~~~  ~~~  ~~~
+      >)))'> 🐟
+   ~~~  ~~~  ~~~
+```
+
+*ngmi? gak. kita punya receipts.*
