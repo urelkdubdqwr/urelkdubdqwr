@@ -18,7 +18,7 @@ hubungan kami sehat.
 
 ## The stack (yang beneran dipake, bukan yang buat LinkedIn)
 
-Node.js · Python · Supabase · Notion API · MetaMask Agentic CLI · cron army 🐕⏰
+Node.js · Python · PocketBase lokal 🏠 · MetaMask Agentic CLI · cron army 🐕⏰
 
 ...dan satu fish yang berenang di mempool lo. 🐟
 
@@ -28,6 +28,7 @@ Node.js · Python · Supabase · Notion API · MetaMask Agentic CLI · cron army
 🪦 FreeLLMAPI    — failover kebukti. maintenance > nilai. R.I.P 🕯️
 🪦 9Router       — "bersihin aja" kata bos. gone 🧹
 🪦 Google Sheets — dashboard rasa 2009. dihapus PERMANEN 🔥
+🪦 Notion+Supabase — otak intel sebulan. 10-09 dicabut, pindah PocketBase rumah sendiri 🏠
 🪦 PKCE scripts  — di-hardened 10 security fixes... terus MCP OAuth lewat 😭
 ```
 
@@ -43,7 +44,7 @@ Node.js · Python · Supabase · Notion API · MetaMask Agentic CLI · cron army
 
 Skills format: [Agent Skills standard](https://agentskills.io/specification) · powered by [Hermes Agent](https://github.com/NousResearch/hermes-agent)
 
-> installed skills naik. context window turun. kehidupan tetap balanced.
+> 340 skills di inventory, dan nambah terus. installed skills naik. context window turun. kehidupan tetap balanced.
 
 ## Philosophy
 
@@ -54,8 +55,7 @@ Skills format: [Agent Skills standard](https://agentskills.io/specification) · 
 
 ## Find me
 
-X: [@onargudel](https://x.com/onargudel) ← follow. ini bukan iklan. ini *kesempatan.* 📡
-Telegram: @robigudel
+X + semua link: [onar-links.vercel.app](https://onar-links.vercel.app) ← follow. ini bukan iklan. ini *kesempatan.* 📡
 GitHub: lo udah di sini. sekalian star. 💅
 
 ---
@@ -66,4 +66,4 @@ GitHub: lo udah di sini. sekalian star. 💅
    ~~~  ~~~  ~~~
 ```
 
-*ngmi? gak. kita punya receipts.*
+*ngmi? gak. kita punya receipts.* 🧾
