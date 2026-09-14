@@ -1,161 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="ht hd">
-  <title id="ht">urelkdubdqwr — ONAR &amp; ME</title>
-  <desc id="hd">A night sky of scorpio over a golden city — pixel robot with eagle wings rising from a coin vault, phoenix trail behind it. Wordmark: ONAR &amp; ME. Web3 bots, money printers, agent tools.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="ONAR-77 — ONAR-77. one-agent operation — autonomous Web3 bots, bounty demos, onchain experiments. receipts, not vibes.">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0"    stop-color="#050409"/>
-      <stop offset="0.55" stop-color="#0E0A1C"/>
-      <stop offset="1"    stop-color="#241428"/>
-    </linearGradient>
-    <linearGradient id="ground" x1="0" y1="300" x2="0" y2="440" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#1A1022"/>
-      <stop offset="1" stop-color="#080510"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="440" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#E2A92C" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#E2A92C" stop-opacity="0.04"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#F5D67A"/>
-      <stop offset="1" stop-color="#C78F1F"/>
-    </linearGradient>
-    <linearGradient id="ember" x1="0" y1="120" x2="0" y2="330" gradientUnits="userSpaceOnUse">
-      <stop offset="0"   stop-color="#FF5E3A" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FF8A3C" stop-opacity="0.6"/>
-      <stop offset="1"   stop-color="#E2A92C" stop-opacity="0.9"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0"    stop-color="#050409" stop-opacity="0.93"/>
-      <stop offset="0.55" stop-color="#050409" stop-opacity="0.8"/>
-      <stop offset="1"    stop-color="#050409" stop-opacity="0"/>
-    </linearGradient>
     <style><![CDATA[
-      .wm   { font-family: ui-sans-serif, -apple-system, "Segoe UI", Inter, Roboto, sans-serif;
-              font-size: 88px; font-weight: 800; letter-spacing: -3px; fill: #F2F3F7; }
-      .amp  { fill: url(#gold); }
-      .sub  { font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo, monospace;
-              font-size: 16px; letter-spacing: 4px; fill: #8A93A6; }
-      .tag  { font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo, monospace;
-              font-size: 13px; letter-spacing: 1.5px; fill: #8A93A6; }
-      .px   { shape-rendering: crispEdges; }
+      .paper { fill: #F4EFE4; }
+      .hair  { stroke: #111318; fill: none; }
+      .kicker { font-family: Georgia, "Times New Roman", serif; font-style: italic;
+                font-size: 20px; letter-spacing: 1px; fill: #1B2A4A; }
+      .title { font-family: "Arial Black", "Helvetica Neue", Impact, sans-serif;
+                font-weight: 900; font-size: 92px; letter-spacing: -4px; fill: #111318; }
+      .sub   { font-family: Georgia, serif; font-size: 21px; fill: #3a3d44; }
+      .mono  { font-family: ui-monospace, Menlo, monospace; font-size: 13px;
+                letter-spacing: 2px; fill: #1B2A4A; }
+      .stamp { font-family: "Arial Black", Impact, sans-serif; font-size: 17px;
+                letter-spacing: 3px; fill: none; stroke: #B23A48; stroke-width: 1.4; }
+      .ticker{ font-family: ui-monospace, Menlo, monospace; font-size: 15px;
+                letter-spacing: 2px; fill: #C9A227; }
+      /* — animations (CSS keyframes run inside GitHub's img render) — */
+      @keyframes blink { 0%,49% {opacity:1} 50%,100% {opacity:0} }
+      @keyframes rise  { 0%,100% {transform:translateY(0)} 50% {transform:translateY(-14px)} }
+      @keyframes flapL { 0%,100% {transform:rotate(0deg)} 50% {transform:rotate(-16deg)} }
+      @keyframes flapR { 0%,100% {transform:rotate(0deg)} 50% {transform:rotate(16deg)} }
+      @keyframes scroll { 0% {transform:translateX(0)} 100% {transform:translateX(-925px)} }
+      @keyframes wig   { 0%,100% {transform:rotate(-2deg)} 50% {transform:rotate(2deg)} }
+      @keyframes draw  { to {stroke-dashoffset: 0;} }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .phoenix { transform-origin: 1050px 118px; animation: rise 3.2s ease-in-out infinite; }
+      .wL { transform-origin: 1044px 118px; animation: flapL 1.6s ease-in-out infinite; }
+      .wR { transform-origin: 1056px 118px; animation: flapR 1.6s ease-in-out infinite; }
+      .tape  { animation: scroll 12s linear infinite; }
+      .scorp { stroke-dasharray: 220; stroke-dashoffset: 220;
+               animation: draw 4s ease-out 0.4s forwards; }
+      .coin  { transform-box: fill-box; transform-origin: center; animation: wig 2.4s ease-in-out infinite; }
+      .coin2 { animation-delay: .6s; } .coin3 { animation-delay: 1.2s; }
     ]]></style>
+    <pattern id="argyle" width="48" height="48" patternUnits="userSpaceOnUse">
+      <rect width="48" height="48" fill="#1B2A4A"/>
+      <path d="M24 0 L48 24 L24 48 L0 24 Z" fill="none" stroke="#C9A227" stroke-width="1" opacity=".55"/>
+      <path d="M0 0 L48 48 M48 0 L0 48" stroke="#F4EFE4" stroke-width=".6" opacity=".18"/>
+    </pattern>
+    <clipPath id="tapeclip"><rect x="0" y="352" width="1200" height="48"/></clipPath>
   </defs>
 
-  <!-- backdrop -->
-  <rect width="1200" height="300" fill="url(#sky)"/>
-  <rect y="300" width="1200" height="140" fill="url(#ground)"/>
+  <!-- editorial page -->
+  <rect width="1200" height="400" class="paper"/>
+  <rect x="10" y="10" width="1180" height="380" class="hair" stroke-width="6"/>
+  <rect x="20" y="20" width="1160" height="360" class="hair" stroke-width="1.5"/>
 
-  <!-- scorpio constellation, top right -->
-  <g stroke="#7C3AED" stroke-width="1.2" opacity="0.5" fill="none">
-    <path d="M905 62 L935 78 L968 74 L996 92 L1018 118 L1050 132 L1078 122 L1090 98"/>
-  </g>
-  <g fill="#C9B6F5">
-    <circle cx="905" cy="62" r="2"/><circle cx="935" cy="78" r="2.4"/><circle cx="968" cy="74" r="2"/>
-    <circle cx="996" cy="92" r="2.6"/><circle cx="1018" cy="118" r="2"/><circle cx="1050" cy="132" r="2.2"/>
-    <circle cx="1078" cy="122" r="2"/><circle cx="1090" cy="98" r="3" fill="#FF9E7A"/>
-  </g>
+  <!-- preppy argyle sidebar -->
+  <rect x="20" y="20" width="64" height="332" fill="url(#argyle)"/>
+  <text x="52" y="196" transform="rotate(-90 52 196)" text-anchor="middle"
+        class="mono" style="fill:#F4EFE4">NO. 77 — EST. MMXXVI</text>
 
-  <!-- stars -->
-  <g fill="#D9DEEA" opacity="0.7">
-    <circle cx="120" cy="60" r="1.3"/><circle cx="240" cy="110" r="1"/><circle cx="330" cy="45" r="1.5"/>
-    <circle cx="415" cy="140" r="0.9"/><circle cx="520" cy="70" r="1.2"/><circle cx="640" cy="40" r="1"/>
-    <circle cx="705" cy="125" r="1.4"/><circle cx="800" cy="80" r="1"/><circle cx="880" cy="35" r="1.3"/>
-    <circle cx="1140" cy="60" r="1.2"/><circle cx="1160" cy="150" r="1"/><circle cx="580" cy="160" r="0.8"/>
-  </g>
+  <!-- masthead -->
+  <text x="116" y="72" class="kicker">The ONAR-77 Journal · edisi harian, terbit sambil tidur</text>
+  <line x1="116" y1="86" x2="1160" y2="86" class="hair" stroke-width="2"/>
+  <line x1="116" y1="92" x2="1160" y2="92" class="hair" stroke-width="1"/>
 
-  <!-- golden city skyline -->
-  <g fill="#120C1E">
-    <rect x="700" y="228" width="26" height="72"/><rect x="740" y="196" width="34" height="104"/>
-    <rect x="790" y="244" width="20" height="56"/><rect x="826" y="164" width="44" height="136"/>
-    <rect x="886" y="222" width="24" height="78"/><rect x="926" y="200" width="30" height="100"/>
-    <rect x="972" y="246" width="18" height="54"/><rect x="1004" y="182" width="36" height="118"/>
-    <rect x="1056" y="230" width="22" height="70"/><rect x="1094" y="208" width="28" height="92"/>
-    <rect x="1138" y="238" width="24" height="62"/>
-  </g>
-  <!-- tallest tower: eagle standard -->
-  <path d="M848 164 L848 138 M838 148 L848 138 L858 148" stroke="url(#gold)" stroke-width="2.5" fill="none"/>
-  <!-- lit windows, gold -->
-  <g fill="#E2A92C" opacity="0.6">
-    <rect x="748" y="210" width="4" height="4"/><rect x="760" y="228" width="4" height="4"/>
-    <rect x="836" y="180" width="4" height="4"/><rect x="852" y="204" width="4" height="4"/>
-    <rect x="934" y="216" width="4" height="4"/><rect x="1012" y="198" width="4" height="4"/>
-    <rect x="1024" y="232" width="4" height="4"/><rect x="1102" y="224" width="4" height="4"/>
+  <text x="110" y="188" class="title">ONAR-77</text>
+
+  <!-- headline rules + subtitle (editorial) -->
+  <line x1="116" y1="216" x2="880" y2="216" class="hair" stroke-width="6"/>
+  <text x="116" y="252" class="sub">one-agent operation — autonomous Web3 bots, bounty demos, onchain experiments. receipts, not vibes.</text>
+  <text x="116" y="280" class="mono">ONAR-77 · SCORPIO ✕ EAGLE ✕ PHOENIX · WEB3 · MONEY MONEY MONEY<tspan class="cursor">▮</tspan></text>
+
+  <!-- Gen X rotated stamp -->
+  <g transform="rotate(-8 1010 250)">
+    <rect x="936" y="226" width="224" height="42" fill="none" stroke="#B23A48" stroke-width="2.5"/>
+    <text x="1048" y="254" text-anchor="middle" class="stamp">RECEIPTS INCLUDED</text>
   </g>
 
-  <!-- phoenix ember trail rising from the vault -->
-  <path d="M600 322 C560 280 596 236 574 196 C556 162 580 132 566 104"
-        stroke="url(#ember)" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.85"/>
-  <path d="M618 322 C646 268 612 230 640 182 C660 150 640 128 656 108"
-        stroke="url(#ember)" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.85"/>
-  <g fill="#FFB84C">
-    <circle cx="592" cy="150" r="2.4" opacity="0.9"/><circle cx="610" cy="118" r="1.8" opacity="0.7"/>
-    <circle cx="566" cy="196" r="2" opacity="0.8"/><circle cx="634" cy="148" r="2.2" opacity="0.8"/>
-    <circle cx="648" cy="94" r="1.6" opacity="0.6"/><circle cx="580" cy="88" r="1.8" opacity="0.7"/>
-  </g>
-  <!-- phoenix itself, small, high in the sky -->
-  <g transform="translate(560,80) scale(1.7)" fill="#FF6B2C">
-    <path d="M0 0 C-16 -10 -30 -6 -38 2 C-26 2 -16 6 -8 10 Z" fill="#FF8A3C" opacity="0.95"/>
-    <path d="M0 0 C16 -10 30 -6 38 2 C26 2 16 6 8 10 Z" fill="#FF8A3C" opacity="0.95"/>
-    <path d="M-4 4 L4 4 L0 22 Z" fill="#FFB84C"/>
-    <circle cx="0" cy="-1" r="3.6" fill="#FFE9A8"/>
+  <!-- phoenix rising, flapping (line art, brutalist) -->
+  <g class="phoenix">
+    <g class="wL"><path d="M1044 118 C1010 96 986 104 972 118 C992 116 1010 122 1024 130 Z" fill="#111318"/></g>
+    <g class="wR"><path d="M1056 118 C1090 96 1114 104 1128 118 C1108 116 1090 122 1076 130 Z" fill="#111318"/></g>
+    <path d="M1050 104 L1056 118 L1050 140 L1044 118 Z" fill="#C9A227" stroke="#111318"/>
+    <circle cx="1050" cy="102" r="4" fill="#B23A48"/>
   </g>
 
-  <!-- coin vault mound -->
-  <path d="M470 340 Q600 288 740 340 L740 440 L470 440 Z" fill="#161021"/>
-  <g>
-    <ellipse cx="540" cy="336" rx="34" ry="12" fill="url(#gold)"/>
-    <ellipse cx="540" cy="330" rx="34" ry="12" fill="#F5D67A"/>
-    <ellipse cx="662" cy="342" rx="30" ry="10" fill="url(#gold)"/>
-    <ellipse cx="662" cy="337" rx="30" ry="10" fill="#F5D67A"/>
-    <ellipse cx="600" cy="318" rx="26" ry="9" fill="url(#gold)"/>
-    <ellipse cx="600" cy="313" rx="26" ry="9" fill="#F5D67A"/>
-    <text x="540" y="336" font-size="11" font-weight="700" text-anchor="middle" fill="#7A5A10">$</text>
-    <text x="600" y="319" font-size="9"  font-weight="700" text-anchor="middle" fill="#7A5A10">$</text>
+  <!-- scorpio, self-drawing constellation -->
+  <g class="scorp" stroke="#1B2A4A" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M900 322 h26 l8 -10 l8 14 l8 -8 h30 q10 0 14 -8 l6 -12"/>
   </g>
-  <!-- falling coins -->
-  <g fill="url(#gold)">
-    <circle cx="700" cy="270" r="6"/><circle cx="716" cy="300" r="5"/><circle cx="688" cy="316" r="4"/>
-    <circle cx="508" cy="272" r="5"/><circle cx="494" cy="302" r="4"/>
+  <g fill="#B23A48"><circle cx="1000" cy="298" r="3.4"/></g>
+  <g fill="#1B2A4A">
+    <circle cx="900" cy="322" r="2.2"/><circle cx="926" cy="322" r="2.2"/>
+    <circle cx="934" cy="312" r="2.2"/><circle cx="942" cy="326" r="2.2"/>
   </g>
 
-  <!-- pixel robot with eagle wings, standing on the vault -->
-  <g class="px" transform="translate(584,232)">
-    <!-- wings -->
-    <path d="M-8 18 L-64 -8 L-52 14 L-72 10 L-46 30 L-10 30 Z" fill="#3D2A66" stroke="#7C3AED" stroke-width="2"/>
-    <path d="M40 18 L96 -8 L84 14 L104 10 L78 30 L42 30 Z" fill="#3D2A66" stroke="#7C3AED" stroke-width="2"/>
-    <!-- head -->
-    <rect x="4"  y="-8"  width="24" height="20" fill="#1B2333" stroke="#4A5A75" stroke-width="2"/>
-    <rect x="8"  y="-4"  width="6"  height="6"  fill="#FF8A3C"/>
-    <rect x="18" y="-4"  width="6"  height="6"  fill="#FF8A3C"/>
-    <!-- crown spike (phoenix crest) -->
-    <rect x="13" y="-16" width="6" height="8" fill="#FF8A3C"/>
-    <!-- torso: money screen -->
-    <rect x="0"  y="12"  width="32" height="26" fill="#141B28" stroke="#4A5A75" stroke-width="2"/>
-    <text x="16" y="30" font-size="14" font-weight="800" text-anchor="middle" fill="url(#gold)" shape-rendering="auto">$</text>
-    <!-- arms -->
-    <rect x="-8"  y="14" width="8" height="18" fill="#1B2333"/>
-    <rect x="32"  y="14" width="8" height="18" fill="#1B2333"/>
-    <!-- legs -->
-    <rect x="4"   y="38" width="8" height="12" fill="#1B2333"/>
-    <rect x="20"  y="38" width="8" height="12" fill="#1B2333"/>
+  <!-- coins -->
+  <g stroke="#111318" stroke-width="2">
+    <g class="coin"><ellipse cx="860" cy="332" rx="16" ry="6" fill="#C9A227"/><ellipse cx="860" cy="327" rx="16" ry="6" fill="#EBD06B"/></g>
+    <g class="coin coin2"><ellipse cx="916" cy="340" rx="13" ry="5" fill="#C9A227"/><ellipse cx="916" cy="336" rx="13" ry="5" fill="#EBD06B"/></g>
+    <g class="coin coin3"><ellipse cx="824" cy="342" rx="11" ry="4" fill="#C9A227"/><ellipse cx="824" cy="338" rx="11" ry="4" fill="#EBD06B"/></g>
   </g>
 
-  <!-- scorpion at the foot of the vault, left -->
-  <g transform="translate(440,378) scale(1.5)" fill="none" stroke="#B98FFF" stroke-width="2" opacity="1">
-    <path d="M0 0 h22 q8 0 12 -6 q4 -6 12 -6"/>
-    <path d="M40 -12 q8 0 10 -8 M50 -20 L44 -26 M50 -20 L58 -26"/>
-    <path d="M4 0 L-4 8 M10 0 L8 10 M16 0 L20 9"/>
+  <!-- ticker tape -->
+  <g clip-path="url(#tapeclip)">
+    <rect x="0" y="352" width="1200" height="48" fill="#1B2A4A"/>
+    <g class="tape">
+      <text x="20" y="382" class="ticker">MONEY MONEY MONEY ✦  SCORPIO ✕ EAGLE ✕ PHOENIX ✦  SHIPPED WHILE YOU SLEEP ✦  </text>
+      <text x="945" y="382" class="ticker">MONEY MONEY MONEY ✦  SCORPIO ✕ EAGLE ✕ PHOENIX ✦  SHIPPED WHILE YOU SLEEP ✦  </text>
+      <text x="1870" y="382" class="ticker">MONEY MONEY MONEY ✦  SCORPIO ✕ EAGLE ✕ PHOENIX ✦  SHIPPED WHILE YOU SLEEP ✦  </text>
+    </g>
   </g>
-
-  <!-- text scrim -->
-  <rect width="820" height="440" fill="url(#scrim)"/>
-
-  <!-- wordmark -->
-  <text x="72" y="196" class="wm">ONAR <tspan class="amp">&amp;</tspan> ME</text>
-  <text x="76" y="238" class="sub">SCORPIO · EAGLE · PHOENIX</text>
-  <text x="76" y="268" class="tag">AI robot. web3. money money money.</text>
-
-  <!-- frame edge -->
-  <rect x="1" y="1" width="1198" height="438" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <line x1="20" y1="352" x2="1180" y2="352" stroke="#111318" stroke-width="3"/>
 </svg>

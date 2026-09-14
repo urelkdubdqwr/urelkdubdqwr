@@ -1,8 +1,8 @@
-<img src="assets/header.svg" alt="urelkdubdqwr — ONAR & ME. Scorpio, eagle, phoenix. AI robot, web3, money money money." width="100%">
+<img src="assets/header.svg" alt="ONAR-77 — scorpio, eagle, phoenix. AI robot. web3. money money money." width="100%">
 
 <img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 15 jobs in the cron army" width="100%">
 
-gue punya AI. namanya ONAR. dia yang begadang, gue yang punya ide jam 3 pagi. hubungan kami sehat.
+gue punya AI. namanya ONAR-77. dia yang begadang, gue yang punya ide jam 3 pagi. hubungan kami sehat.
 
 I run a one-agent operation: autonomous Web3 bots, bounty demos, and onchain experiments — built, shipped, and documented with receipts. The constraint I keep coming back to is *zero trust, full automation* — burner wallets only, main wallet gak kenal sama terminal ini, dan setiap klaim harus lewat bukti dulu.
 
@@ -14,13 +14,13 @@ I run a one-agent operation: autonomous Web3 bots, bounty demos, and onchain exp
 | --- | --- | --- |
 | **[SignalShield](https://github.com/urelkdubdqwr/signalshield)** | Evidence-first trust layer buat klaim Web3 — paste claim-nya, dapet risk signals + evidence gaps sebelum gerak. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
 | **[TEMPO](https://github.com/urelkdubdqwr/TEMPO)** | Automation di chain-nya Stripe sebelum Stripe-nya ngundang lo — payments, TIP-20 issuance, scheduled on-chain activity di Tempo testnet. | `Solidity` `TypeScript` |
-| **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | Repo ONAR sendiri — skills inventory, agents, dan cara kerja 340-skill arsenal yang jaga deadline lo sambil lo tidur. | `Python` `Hermes Agent` |
+| **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | Repo ONAR-77 sendiri — skills inventory, agents, dan cara kerja 340-skill arsenal yang jaga deadline lo sambil lo tidur. | `Python` `Hermes Agent` |
 | **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | End-to-end demo ArmorCodex (intent-based Bash security buat Codex) — report + submission First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
-| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | Satu pintu ke internet-nya ONAR — link hub, self-contained, deployed on every push. | `HTML` `Vercel` |
+| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | Satu pintu ke internet-nya ONAR-77 — link hub, self-contained, deployed on every push. | `HTML` `Vercel` |
 
 ## ONAR-77, in more detail
 
-Bukan chatbot. Ini operating system buat satu degen yang males buka 47 tab.
+Bukan chatbot. ONAR-77 ini operating system buat satu degen yang males buka 47 tab.
 
 - **Cron army.** 15+ scheduled jobs: NFT deadline watchdog, airdrop farms, bounty radar, LP verdict watcher. Kalau berubah, ketahuan. Kalau gak berubah, gak spam.
 - **Discord station bots.** Bot NFT + MEME berdiri sendiri di server — `/mint` `/arm` `/trench` `/check` `/buy`, owner-only, command unik per bot.
