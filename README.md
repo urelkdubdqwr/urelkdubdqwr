@@ -61,4 +61,4 @@ GitHub: lo udah di sini. sekalian star. 💅
 
 ---
 
-🦂 → 🦅 → 🐦‍🔥
+🦂 → 🦅 → 🔥
