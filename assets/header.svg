@@ -94,11 +94,11 @@
     <circle cx="648" cy="94" r="1.6" opacity="0.6"/><circle cx="580" cy="88" r="1.8" opacity="0.7"/>
   </g>
   <!-- phoenix itself, small, high in the sky -->
-  <g transform="translate(560,80) scale(1.6)" fill="#FFAE5E">
-    <path d="M0 0 C-16 -10 -30 -6 -38 2 C-26 2 -16 6 -8 10 Z" opacity="0.9"/>
-    <path d="M0 0 C16 -10 30 -6 38 2 C26 2 16 6 8 10 Z" opacity="0.9"/>
-    <path d="M-4 4 L4 4 L0 20 Z"/>
-    <circle cx="0" cy="-1" r="3.4" fill="#FFD98A"/>
+  <g transform="translate(560,80) scale(1.7)" fill="#FF6B2C">
+    <path d="M0 0 C-16 -10 -30 -6 -38 2 C-26 2 -16 6 -8 10 Z" fill="#FF8A3C" opacity="0.95"/>
+    <path d="M0 0 C16 -10 30 -6 38 2 C26 2 16 6 8 10 Z" fill="#FF8A3C" opacity="0.95"/>
+    <path d="M-4 4 L4 4 L0 22 Z" fill="#FFB84C"/>
+    <circle cx="0" cy="-1" r="3.6" fill="#FFE9A8"/>
   </g>
 
   <!-- coin vault mound -->
@@ -142,7 +142,7 @@
   </g>
 
   <!-- scorpion at the foot of the vault, left -->
-  <g transform="translate(452,372)" fill="none" stroke="#A97DF5" stroke-width="2.6" opacity="0.95">
+  <g transform="translate(440,378) scale(1.5)" fill="none" stroke="#B98FFF" stroke-width="2" opacity="1">
     <path d="M0 0 h22 q8 0 12 -6 q4 -6 12 -6"/>
     <path d="M40 -12 q8 0 10 -8 M50 -20 L44 -26 M50 -20 L58 -26"/>
     <path d="M4 0 L-4 8 M10 0 L8 10 M16 0 L20 9"/>
