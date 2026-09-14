@@ -20,8 +20,7 @@ TPL = r'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" view
       .sub   {{ font-family: Georgia, serif; font-size: 21px; fill: #3a3d44; }}
       .mono  {{ font-family: ui-monospace, Menlo, monospace; font-size: 13px;
                 letter-spacing: 2px; fill: {NAVY}; }}
-      .emoji {{ font-family: "Noto Color Emoji","Apple Color Emoji","Segoe UI Emoji",sans-serif;
-               font-size: 30px; }}
+      .arr   {{ font-family: Georgia, serif; font-size: 30px; fill: {INK}; }}
       .stamp {{ font-family: "Arial Black", Impact, sans-serif; font-size: 17px;
                 letter-spacing: 3px; fill: none; stroke: {RED}; stroke-width: 1.4; }}
       .ticker{{ font-family: ui-monospace, Menlo, monospace; font-size: 15px;
@@ -72,7 +71,28 @@ TPL = r'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" view
   <!-- headline rules + subtitle (editorial) -->
   <line x1="116" y1="216" x2="880" y2="216" class="hair" stroke-width="6"/>
   <text x="116" y="252" class="sub">{SUBTITLE}</text>
-  <text x="116" y="284" class="emoji">🦂&#160;→&#160;🦅&#160;→&#160;🐦‍🔥</text>
+  <!-- identity triple: drawn, not emoji-font -->
+  <g transform="translate(116,268) scale(.7)" fill="none" stroke="{NAVY}" stroke-width="3.4" stroke-linecap="round">
+    <ellipse cx="14" cy="12" rx="12" ry="6" fill="{NAVY}" stroke="none"/>
+    <path d="M26 12 h10 l7 -9 l7 13 l7 -8 h12 q8 0 11 -7 l5 -10"/>
+    <circle cx="80" cy="-2" r="2.6" fill="{RED}" stroke="none"/>
+    <path d="M-2 20 l-8 8 M6 22 l-3 9 M16 21 l3 9 M26 19 l8 8"/>
+  </g>
+  <text x="196" y="290" class="arr">→</text>
+  <g transform="translate(268,278) scale(.42)">
+    <path d="M0 14 C-34 -8 -58 0 -72 14 C-52 12 -34 18 -20 26 Z" fill="{INK}"/>
+    <path d="M0 14 C34 -8 58 0 72 14 C52 12 34 18 20 26 Z" fill="{INK}"/>
+    <path d="M0 -4 L7 14 L0 34 L-7 14 Z" fill="{GOLD}"/>
+    <circle cx="0" cy="-8" r="5" fill="{RED}"/>
+  </g>
+  <text x="344" y="290" class="arr">→</text>
+  <g transform="translate(416,278) scale(.42)">
+    <path d="M0 14 C-34 -8 -58 0 -72 14 C-52 12 -34 18 -20 26 Z" fill="#FF6B2C"/>
+    <path d="M0 14 C34 -8 58 0 72 14 C52 12 34 18 20 26 Z" fill="#FF6B2C"/>
+    <path d="M0 -4 L7 14 L0 40 L-7 14 Z" fill="{GOLD}"/>
+    <path d="M0 40 q-6 14 0 24 q8 -8 0 -24" fill="#B23A48" stroke="none"/>
+    <circle cx="0" cy="-8" r="5" fill="#FFD98A" stroke="{RED}" stroke-width="2"/>
+  </g>
 
   <!-- Gen X rotated stamp -->
   <g transform="rotate(-8 1010 250)">
@@ -136,7 +156,7 @@ RULE = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" view
 
 def main():
     out, title, subtitle, *tags = sys.argv[1:]
-    tags = tags or ["🦂 → 🦅 → 🐦‍🔥"]
+    tags = tags or ["MONEY MONEY MONEY", "SHIPPED WHILE YOU SLEEP", "RECEIPTS INCLUDED"]
     sep = "  ✦  "
     tagrun_raw = sep.join(tags) + sep
     tagrun = html.escape(tagrun_raw)
