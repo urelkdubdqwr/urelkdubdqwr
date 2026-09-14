@@ -20,6 +20,8 @@ TPL = r'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" view
       .sub   {{ font-family: Georgia, serif; font-size: 21px; fill: #3a3d44; }}
       .mono  {{ font-family: ui-monospace, Menlo, monospace; font-size: 13px;
                 letter-spacing: 2px; fill: {NAVY}; }}
+      .emoji {{ font-family: "Noto Color Emoji","Apple Color Emoji","Segoe UI Emoji",sans-serif;
+               font-size: 30px; }}
       .stamp {{ font-family: "Arial Black", Impact, sans-serif; font-size: 17px;
                 letter-spacing: 3px; fill: none; stroke: {RED}; stroke-width: 1.4; }}
       .ticker{{ font-family: ui-monospace, Menlo, monospace; font-size: 15px;
@@ -70,7 +72,7 @@ TPL = r'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" view
   <!-- headline rules + subtitle (editorial) -->
   <line x1="116" y1="216" x2="880" y2="216" class="hair" stroke-width="6"/>
   <text x="116" y="252" class="sub">{SUBTITLE}</text>
-  <text x="116" y="280" class="mono">ONAR-77 · SCORPIO ✕ EAGLE ✕ PHOENIX · WEB3 · MONEY MONEY MONEY<tspan class="cursor">▮</tspan></text>
+  <text x="116" y="284" class="emoji">🦂&#160;→&#160;🦅&#160;→&#160;🐦‍🔥</text>
 
   <!-- Gen X rotated stamp -->
   <g transform="rotate(-8 1010 250)">
@@ -134,8 +136,8 @@ RULE = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" view
 
 def main():
     out, title, subtitle, *tags = sys.argv[1:]
-    tags = tags or ["MONEY MONEY MONEY", "SHIPPED WHILE YOU SLEEP", "ZERO TRUST FULL AUTOMATION"]
-    sep = " ✦  "
+    tags = tags or ["🦂 → 🦅 → 🐦‍🔥"]
+    sep = "  ✦  "
     tagrun_raw = sep.join(tags) + sep
     tagrun = html.escape(tagrun_raw)
     step = int(len(tagrun_raw) * 11.5) + 40   # ~11.5px/char mono 15px + 2px tracking
