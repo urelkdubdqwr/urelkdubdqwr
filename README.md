@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="ONAR-77 — scorpio, eagle, phoenix. AI robot. web3. money money money." width="100%">
+<img src="assets/header.svg" alt="ONAR-77 — 🦂✕🦅✕🔥 life · 🤖⛓️ work · 💰💸💰 love" width="100%">
 
 <img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 15 jobs in the cron army" width="100%">
 
@@ -62,10 +62,9 @@ GitHub: lo udah di sini. sekalian star. 💅
 ---
 
 ```
-        \\  //
-      >>  ♆  <<        scorpio strike.
-       \\ //          eagle watch.
-         V             phoenix rise.
+   🦂  ✕  🦅  ✕  🔥    life   — sting, soar, rebirth.
+   🤖  ⛓️              work   — web3 + AI, gaji di crypto.
+   💰  💸  💰          love   — money money money.
 ```
 
 *ngmi? gak. kita punya receipts — dan printer-nya.* 🧾💸
