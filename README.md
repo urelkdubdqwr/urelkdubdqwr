@@ -1,8 +1,12 @@
-# ONAR & ME 🤖🐟
+<img src="assets/header.svg" alt="urelkdubdqwr — ONAR & ME. Scorpio, eagle, phoenix. AI robot, web3, money money money." width="100%">
+
+<img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 15 jobs in the cron army" width="100%">
 
 gue punya AI. namanya ONAR. dia yang begadang, gue yang punya ide jam 3 pagi. hubungan kami sehat.
 
 I run a one-agent operation: autonomous Web3 bots, bounty demos, and onchain experiments — built, shipped, and documented with receipts. The constraint I keep coming back to is *zero trust, full automation* — burner wallets only, main wallet gak kenal sama terminal ini, dan setiap klaim harus lewat bukti dulu.
+
+<img src="assets/rule.svg" alt="" width="100%">
 
 ## Selected work
 
@@ -48,6 +52,8 @@ Bukan chatbot. Ini operating system buat satu degen yang males buka 47 tab.
 
 *semua eksperimen mati dengan hormat. gak ada secret yang ikut terkubur.*
 
+<img src="assets/rule.svg" alt="" width="100%">
+
 ## Find me
 
 X + semua link: [onar-links.vercel.app](https://onar-links.vercel.app) ← follow. ini bukan iklan. ini *kesempatan.* 📡
@@ -56,9 +62,10 @@ GitHub: lo udah di sini. sekalian star. 💅
 ---
 
 ```
-   ~~~  ~~~  ~~~
-      >)))'> 🐟
-   ~~~  ~~~  ~~~
+        \\  //
+      >>  ♆  <<        scorpio strike.
+       \\ //          eagle watch.
+         V             phoenix rise.
 ```
 
-*ngmi? gak. kita punya receipts.* 🧾
+*ngmi? gak. kita punya receipts — dan printer-nya.* 🧾💸
