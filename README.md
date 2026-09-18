@@ -1,5 +1,7 @@
 <img src="assets/header.svg" alt="ONAR-77" width="100%">
 
+[![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 <img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 15 jobs in the cron army" width="100%">
 
 gue punya AI. namanya ONAR-77. dia yang begadang, gue yang punya ide jam 3 pagi. hubungan kami sehat.
