@@ -1,72 +1,118 @@
-<img src="assets/header-gif.svg" alt="STUDIO PINGGIR KASUR" width="100%">
+<div align="center">
 
-# STUDIO PINGGIR KASUR 🛏️
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · urelkdubdqwr</sub></p>
+<h1>urelkdubdqwr</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>STUDIO PINGGIR KASUR — ide jam 3 pagi → project. by ONAR-77. web3 bots, bounty, onchain. receipts.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Indonesia</sub></p>
+<p><a href="https://github.com/urelkdubdqwr">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/onargudel">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="urelkdubdqwr animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
-[![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<h2>What teams can evaluate quickly</h2>
 
-**STUDIO PINGGIR KASUR** — tempat ide jam 3 pagi begini datang. gak ada kantor. gak ada meja. cuma kasur, satu laptop, sama ONAR-77 yang begadang baut apapun.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · Shell</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>159 contributions · 15 active days</p></td>
+</tr>
+</table>
 
-*gue punya AI. namanya ONAR-77. dia yang eksekusi, gue yang punya ide gila jam 3 subuh. hubungan kami sehat.*
+<p><sub>STUDIO PINGGIR KASUR — ide jam 3 pagi → project. by ONAR-77. web3 bots, bounty, onchain. receipts.</sub></p>
 
-this is a one-man operation — **autonomous Web3 bots, bounty demos, onchain experiments**, dibangun, di-ship, semua dengan receipts. dari pinggir kasur, sebelum matahari tahu.
+<h2>Proof at a glance</h2>
 
-```
-zero trust. full automation.
-burner wallets aja. main wallet gak pernah ketemu terminal.
-tiap claim? bukti dulu. no cap.
-```
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>159</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## 🏭 Projects (semua lahir dari studio)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="urelkdubdqwr GitHub proof metrics" />
+</picture>
+</p>
 
-| Project | What it be | Stack |
-| --- | --- | --- |
-| **[ONAR-77 Agent](https://github.com/urelkdubdqwr/onar-77-agent)** | otaknya studio. 340 skills, jaga deadline sambil lo nge-farm airdrop. | `Python` `Hermes Agent` |
-| **[SignalShield](https://github.com/urelkdubdqwr/signalshield)** | paste klaim Web3 apapun → dapet risk signals + evidence gaps. GatewayHacks 2026, submitted + live. no FOMO before facts. | `Python` `LLM tooling` |
-| **[TEMPO](https://github.com/urelkdubdqwr/TEMPO)** | automation di chain-nya Stripe, sebelum Stripe-nya ngundang. payments, TIP-20, scheduled onchain. | `Solidity` `TypeScript` |
-| **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | ArmorCodex demo — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
-| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | satu pintu ke internet-nya ONAR-77. link hub, auto-deploy. | `HTML` `Vercel` |
+<h2>Selected work</h2>
 
-## 🛠️ How the studio runs
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&repos=urelkdubdqwr%2Fonar-77-agent%2Curelkdubdqwr%2Furelkdubdqwr%2Curelkdubdqwr%2Fbounty-armorcodex%2Curelkdubdqwr%2FTEMPO&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&repos=urelkdubdqwr%2Fonar-77-agent%2Curelkdubdqwr%2Furelkdubdqwr%2Curelkdubdqwr%2Fbounty-armorcodex%2Curelkdubdqwr%2FTEMPO&v=recruiter-projects-1&mode=dark" width="100%" alt="urelkdubdqwr selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/urelkdubdqwr/onar-77-agent">onar-77-agent</a></h3>
+<p>otaknya STUDIO PINGGIR KASUR . 340+ skills, jaga deadline sambil lo tidur. dibuat sama ONAR-77.</p>
+<p><sub>HTML · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/urelkdubdqwr/onar-77-agent">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-ono pake ogot chat. ONAR-77 ini operating system buat degen males buka 47 tab.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/urelkdubdqwr/urelkdubdqwr">urelkdubdqwr</a></h3><p>STUDIO PINGGIR KASUR — tempat ide jam 3 pagi lahir. projek dikerjain ONAR-77.</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/urelkdubdqwr/bounty-armorcodex">bounty-armorcodex</a></h3><p>demo ArmorCodex: intent-based bash security buat Codex. First Dollar Sep 2026.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/urelkdubdqwr/TEMPO">TEMPO</a></h3><p>automation di chain-nya Stripe sebelum Stripe ngundang. payments, TIP-20, onchain scheduled.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-- **cron army.** 15+ jobs: NFT deadline watchdog, airdrop farms, bounty radar, LP verdict watcher. ada perubahan → ketahuan. aman → diem. no spam, i promise.
-- **discord station bots.** `/mint` `/arm` `/trench` `/check` `/buy` — owner only, command unik per bot, berdiri sendiri.
-- **sybil-safe.** burner wallet. secret hygiene ketat. simulate sebelum broadcast. gak ada secret yang ikut ke commit.
-- **ship in public.** tiap bounty = demo jalan + laporan. receipts wajib. 🧾
+<h2>Technical toolkit</h2>
 
-## ⚡ Stack
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="urelkdubdqwr technology stack" />
+</picture>
+</p>
 
-- **automation** — `Python` `Node.js` `cron` `PocketBase`
-- **agents** — `Hermes Agent` · 340 skills, [Agent Skills spec](https://agentskills.io/specification)
-- **onchain** — `ethers` `viem` `Foundry` · testnet-first, mainnet cuma sama izin eksplisit
-- **research** — watchers, deep-research loop, Polymarket odds
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>85% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-## 🛏️ Currently
+<h2>Consistency signal</h2>
 
-- nginap di Robinhood Chain, Arc, Polymarket
-- nge-farm airdrop testnet — pola manusia. robot yang ketahuan = robot gagal.
-- bounty masuk → demo keluar → receipts numpuk.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=urelkdubdqwr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78969927%3Fu%3De95978ac1b7e64a0ac4b3c19b2e3fa45ad30aaa5%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="urelkdubdqwr contribution activity" />
+</picture>
+</p>
 
-## 💀 Graveyard
+<hr />
 
-```
-🪦 FreeLLMAPI      — failover kebukti. maintenance > nilai. R.I.P 🕯️
-🪦 9Router         — "bersihin aja" kata bos. gone 🧹
-🪦 Google Sheets   — dashboard rasa 2009. dihapus PERMANEN 🔥
-🪦 Notion+Supabase — otak intel sebulan. 10-09 cabut, pindah PocketBase 🏠
-🪦 PKCE scripts    — di-hardened 10 security fixes... terus MCP OAuth lewat 😭
-```
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/urelkdubdqwr">GitHub</a><br /><a href="https://x.com/onargudel">X</a></td>
+</tr>
+</table>
 
-*semua mati hormat. gak ada secret ikut terkubur.*
-
-## find me
-
-X + semua link → [onar-links.vercel.app](https://onar-links.vercel.app) 📡
-GitHub: lo udah di sini. sekalian star. 💅
-
----
-
-built at **STUDIO PINGGIR KASUR** — where midnight ideas wake up as morning commits. 🛏️ → 💻 → 🚀
-
-🦂 → 🦅 → 🔥
+<p align="center"><sub>urelkdubdqwr · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
