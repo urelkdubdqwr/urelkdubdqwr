@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1033"/>
+      <stop offset="1" stop-color="#0d0a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <!-- kasur (bed) playful -->
+  <rect x="120" y="180" width="360" height="22" rx="11" fill="#4a2fb0"/>
+  <rect x="150" y="150" width="300" height="34" rx="16" fill="#25c8ff" opacity="0.85"/>
+  <circle cx="210" cy="150" r="18" fill="#fff2a8"/>
+  <path d="M440 150q-10-22-20 0-10-22-20 0" stroke="#4a2fb0" stroke-width="5" fill="none"/>
+  <!-- bantal -->
+  <rect x="420" y="160" width="90" height="0" />
+  <!-- laptop / monitor -->
+  <rect x="620" y="110" width="260" height="150" rx="14" fill="#0f0f1a" stroke="#25c8ff" stroke-width="6"/>
+  <rect x="660" y="140" width="180" height="60" rx="8" fill="#123d4d"/>
+  <text x="750" y="180" text-anchor="middle" font-family="monospace" font-size="28" fill="#25c8ff">on-kasur</text>
+  <!-- sparkle -->
+  <text x="560" y="150" font-size="60">🛏️</text>
+  <text x="150" y="120" font-size="46">✨</text>
+  <text x="940" y="90" font-size="40">💻</text>
+  <text x="1030" y="200" font-size="52">🚀</text>
+  <text y="120" x="620" font-size="60">�=</text>
+</svg>

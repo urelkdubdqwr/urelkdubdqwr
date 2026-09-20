@@ -1,3 +1,5 @@
+<img src="assets/header-gif.svg" alt="STUDIO PINGGIR KASUR" width="100%">
+
 # STUDIO PINGGIR KASUR 🛏️
 
 [![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
