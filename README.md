@@ -24,6 +24,7 @@ tiap claim? bukti dulu. no cap.
 | **[SignalShield](https://github.com/urelkdubdqwr/signalshield)** | paste klaim Web3 apapun → dapet risk signals + evidence gaps. GatewayHacks 2026, submitted + live. no FOMO before facts. | `Python` `LLM tooling` |
 | **[TEMPO](https://github.com/urelkdubdqwr/TEMPO)** | automation di chain-nya Stripe, sebelum Stripe-nya ngundang. payments, TIP-20, scheduled onchain. | `Solidity` `TypeScript` |
 | **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | ArmorCodex demo — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
+| **[onar-EA](https://github.com/urelkdubdqwr/onar-EA)** | MT5 Expert Advisor. conservative. EMA/ATR signals + risk controls. | `MQL5` |
 | **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | satu pintu ke internet-nya ONAR-77. link hub, auto-deploy. | `HTML` `Vercel` |
 
 ## 🛠️ How the studio runs
