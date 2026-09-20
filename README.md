@@ -1,32 +1,39 @@
-<img src="assets/header.svg" alt="ONAR-77" width="100%">
+<img src="assets/header.svg" alt="STUDIO PINGGIR KASUR" width="100%">
 
 [![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 15 jobs in the cron army" width="100%">
 
-gue punya AI. namanya ONAR-77. dia yang begadang, gue yang punya ide jam 3 pagi. hubungan kami sehat.
+> **STUDIO PINGGIR KASUR** — tempat ide jam 3 pagi jadi sesuatu yang beneran jalan.
+>
+> Semua project di bawah ini lahir dari satu agen: **ONAR-77**. Dia yang begadang, gue yang punya ide. Hubungan kami sehat.
 
-I run a one-agent operation: autonomous Web3 bots, bounty demos, and onchain experiments — built, shipped, and documented with receipts. The constraint I keep coming back to is *zero trust, full automation* — burner wallets only, main wallet gak kenal sama terminal ini, dan setiap klaim harus lewat bukti dulu.
+I run a one-person studio: autonomous Web3 bots, bounty demos, and onchain experiments — built, shipped, and documented with receipts. *Pinggir Kasur* is where the ideas that keep me awake at night get built while I sleep.
+
+The constraint I keep coming back to is **zero trust, full automation** — burner wallets only, main wallet gak pernah ketemu terminal, dan setiap klaim lewat bukti dulu.
 
 <img src="assets/rule.svg" alt="" width="100%">
 
-## Selected work
+## Projects from the studio
 
-| Project | What it is | Stack |
+| Project | What | Stack |
 | --- | --- | --- |
-| **[SignalShield](https://github.com/urelkdubdqwr/signalshield)** | Evidence-first trust layer buat klaim Web3 — paste claim-nya, dapet risk signals + evidence gaps sebelum gerak. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
-| **[TEMPO](https://github.com/urelkdubdqwr/TEMPO)** | Automation di chain-nya Stripe sebelum Stripe-nya ngundang lo — payments, TIP-20 issuance, scheduled on-chain activity di Tempo testnet. | `Solidity` `TypeScript` |
-| **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | Repo ONAR-77 sendiri — skills inventory, agents, dan cara kerja 340-skill arsenal yang jaga deadline lo sambil lo tidur. | `Python` `Hermes Agent` |
-| **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | End-to-end demo ArmorCodex (intent-based Bash security buat Codex) — report + submission First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
-| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | Satu pintu ke internet-nya ONAR-77 — link hub, self-contained, deployed on every push. | `HTML` `Vercel` |
+| **[ONAR-77 Agent](https://github.com/urelkdubdqwr/onar-77-agent)** | The brain behind it all — 340-skill arsenal that jaga deadline sambil lo tidur. | `Python` `Hermes Agent` |
+| **[SignalShield](https://github.com/urelkdubdqwr/signalshield)** | Evidence-first trust layer buat Web3 claims — paste, dapet risk signals + evidence gaps. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
+| **[TEMPO](https://github.com/urelkdubdqwr/TEMPO)** | Automation di chain-nya Stripe sebelum Stripe-nya ngundang lo — payments, TIP-20, scheduled on-chain activity. | `Solidity` `TypeScript` |
+| **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | End-to-end demo ArmorCodex — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
+| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | Satu pintu ke internet-nya ONAR-77 — link hub, deployed on every push. | `HTML` `Vercel` |
+| **[onar-EA](https://github.com/urelkdubdqwr/onar-EA)** | Conservative MT5 Expert Advisor — EMA/ATR signals + risk controls. | `MQL5` |
 
-## ONAR-77, in more detail
+<img src="assets/rule.svg" alt="" width="100%">
+
+## What STUDIO PINGGIR KASUR runs on
 
 Bukan chatbot. ONAR-77 ini operating system buat satu degen yang males buka 47 tab.
 
 - **Cron army.** 15+ scheduled jobs: NFT deadline watchdog, airdrop farms, bounty radar, LP verdict watcher. Kalau berubah, ketahuan. Kalau gak berubah, gak spam.
-- **Discord station bots.** Bot NFT + MEME berdiri sendiri di server — `/mint` `/arm` `/trench` `/check` `/buy`, owner-only, command unik per bot.
-- **Sybil-safe by design.** Burner wallet buat eksekusi, secret hygiene ketat, simulate sebelum broadcast. Gak ada secret yang ikut ke commit — scan dulu, selalu. 🔍
+- **Discord station bots.** Bot NFT + MEME berdiri sendiri — `/mint` `/arm` `/trench` `/check` `/buy`, owner-only, command unik per bot.
+- **Sybil-safe by design.** Burner wallet buat eksekusi, secret hygiene ketat, simulate sebelum broadcast. Gak ada secret yang ikut ke commit.
 - **Ship in public.** Setiap bounty = demo jalan + laporan. Receipt included. 🧾
 
 ## Stack
@@ -58,9 +65,11 @@ Bukan chatbot. ONAR-77 ini operating system buat satu degen yang males buka 47 t
 
 ## Find me
 
-X + semua link: [onar-links.vercel.app](https://onar-links.vercel.app) ← follow. ini bukan iklan. ini *kesempatan.* 📡
+X + semua link: [onar-links.vercel.app](https://onar-links.vercel.app) 📡
 GitHub: lo udah di sini. sekalian star. 💅
 
 ---
+
+Made at **STUDIO PINGGIR KASUR** — where midnight ideas meet morning commits. 🛏️ → 💻 → 🚀
 
 🦂 → 🦅 → 🔥
