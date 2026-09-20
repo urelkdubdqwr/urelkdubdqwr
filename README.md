@@ -1,8 +1,8 @@
-<img src="assets/header-gif.svg" alt="STUDIO PINGGIR KASUR" width="100%">
-
-# STUDIO PINGGIR KASUR 🛏️
+<img src="assets/header.svg" alt="STUDIO PINGGIR KASUR" width="100%">
 
 [![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+<img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 15 jobs in the cron army" width="100%">
 
 **STUDIO PINGGIR KASUR** — tempat ide jam 3 pagi begini datang. gak ada kantor. gak ada meja. cuma kasur, satu laptop, sama ONAR-77 yang begadang baut apapun.
 
@@ -15,6 +15,8 @@ zero trust. full automation.
 burner wallets aja. main wallet gak pernah ketemu terminal.
 tiap claim? bukti dulu. no cap.
 ```
+
+<img src="assets/rule.svg" alt="" width="100%">
 
 ## 🏭 Projects (semua lahir dari studio)
 
@@ -60,6 +62,8 @@ ono pake ogot chat. ONAR-77 ini operating system buat degen males buka 47 tab.
 ```
 
 *semua mati hormat. gak ada secret ikut terkubur.*
+
+<img src="assets/rule.svg" alt="" width="100%">
 
 ## find me
 
