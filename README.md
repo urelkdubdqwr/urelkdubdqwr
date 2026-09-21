@@ -47,6 +47,9 @@ ono pake ogot chat. ONAR-77 ini operating system buat degen males buka 47 tab.
 
 ## 🛏️ Currently
 
+![STUDIO PINGGIR KASUR — ecosystem](assets/ecosystem.png)
+*interaktif: [assets/ecosystem.html](assets/ecosystem.html) (dark/light, pan/zoom, trace motion)*
+
 - nginap di Robinhood Chain, Arc, Polymarket
 - nge-farm airdrop testnet — pola manusia. robot yang ketahuan = robot gagal.
 - bounty masuk → demo keluar → receipts numpuk.
