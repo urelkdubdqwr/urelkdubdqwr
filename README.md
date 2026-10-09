@@ -1,6 +1,6 @@
 # urelkdubdqwr
 
-**Web3 Business Development · Community Growth · AI Automation Operator · Multi-Cycle OG (active since 2018).** I build and run **ONAR-77** — a personal AI intelligence & execution agent that executes market monitoring, campaign tracking, on-chain operations, and content production 24/7, so my human hours go to conversations and deals.
+**Web3 Business Development · Community Growth · AI Automation Operator · Multi-Cycle OG (active since 2018).** I help Web3 teams grow — BD conversations, community ops (Discord/Telegram/X in EN + ID), campaign execution — with self-built automation handling monitoring, tracking, and content production 24/7 in the background. Human hours go to people and deals.
 
 [![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -10,35 +10,28 @@
 
 ## The one-liner
 
-> ex-HSE Safety Officer (48 months zero-accident, 1,500-headcount site) who went full-time Web3 — now operating an autonomous AI agent as a one-man BD, community, and ops machine. EN/ID bilingual. WIB (UTC+7), 24/7.
+> ex-HSE Safety Officer (48 months zero-accident, 1,500-headcount site) who went full-time Web3 — now a one-man BD, community, and ops machine, powered by self-built automation. EN/ID bilingual. WIB (UTC+7), 24/7.
 
 ## What I do
 
 - **Business development & outreach** — pipeline prep, partner conversations, campaign design for NFT / L1-L2 / DAO / Launchpad / RWA teams.
 - **Community growth** — Discord-first + Telegram-first + X-first ops in EN and ID: onboarding, support, educational threads, feedback loops to project teams.
-- **AI automation** — ONAR-77 runs the boring 80%: 14+ project scouts, whitelist & mint deadline watchdogs, CT alpha-feed intake with scoring, daily briefings, failure-alert routing.
+- **AI automation** — self-built agent stack for the boring 80%: project monitors, whitelist & mint deadline watchdogs, alpha-feed intake with scoring, daily briefings, failure routing.
 - **On-chain execution** — pre-signed EVM mint sniper, OpenSea/SeaDrop drop minter, multi-wallet airdrop ops, testnet farming programs (Tempo, ARC, GIWA) — all simulated and replayable.
 
-## The proof
+## Receipts over promises
 
-```text
-ONAR-77 · running 24/7 on a dedicated VPS
-├── intel      — 14+ NFT/DeFi project scouts · WL/mint deadline alerts · scored CT alpha-feed
-├── execution  — pre-signed EVM sniper · SeaDrop minter · multi-wallet airdrop ops
-├── ops        — 17 scheduled jobs · zero-touch error handling · failure routing
-├── knowledge  — 318 procedural skills (research, security, social, delivery)
-└── content    — research → bilingual copy → designed visuals → short-form video
-```
-
-Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** — 340+ skills, jaga deadline sambil lo tidur.
+- 🧾 **bounties** — shipped demos with receipts: ArmorCodex (First Dollar, Sep 2026), SignalShield (GatewayHacks 2026), usepaid deliverables.
+- 📣 **content** — research → bilingual copy → designed visuals → short-form video, end to end (incl. a fully automated 2-min explainer for a firstdollar.money bounty).
+- 🤖 **automation** — agent stack covering monitoring, deadlines, and reporting 24/7: [onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent) (340+ skills).
 
 ## Projects
 
 | Project | What it be | Stack |
 | --- | --- | --- |
-| **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | otaknya studio. autonomous intelligence + execution agent. | `Python` `Hermes Agent` |
 | **[browser-anti-oom](https://github.com/urelkdubdqwr/browser-anti-oom)** | on-demand headless browser recipe — no RAM creep, no zombies, no 3 AM OOM kills. | `Bash` `Chromium` |
 | **[signalshield](https://github.com/urelkdubdqwr/signalshield)** | paste klaim Web3 → risk signals + evidence gaps. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
+| **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | autonomous intelligence + execution agent — scouts, deadlines, content. | `Python` `Hermes Agent` |
 | **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | ArmorCodex demo — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
 | **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | satu pintu ke internet-nya ONAR-77. link hub, auto-deploy. | `HTML` `Vercel` |
 | **[onar-77-mintbots](https://github.com/urelkdubdqwr/onar-77-mintbots)** | mint bot squad — pre-signed EVM sniper + station bot. | `Node.js` `ethers` |
@@ -61,7 +54,7 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 
 ## Currently
 
-![ONAR-77 ecosystem](assets/ecosystem.png)
+![automation ecosystem](assets/ecosystem.png)
 
 *interaktif: [assets/ecosystem.html](assets/ecosystem.html) (dark/light, pan/zoom, trace motion)*
 
