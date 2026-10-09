@@ -19,6 +19,19 @@
 - **AI automation** — self-built agent stack for the boring 80%: project monitors, whitelist & mint deadline watchdogs, alpha-feed intake with scoring, daily briefings, failure routing.
 - **On-chain execution** — pre-signed EVM mint sniper, OpenSea/SeaDrop drop minter, multi-wallet airdrop ops, testnet farming programs (Tempo, ARC, GIWA) — all simulated and replayable.
 
+## Flagship — ONAR-77
+
+```text
+ONAR-77 · running 24/7 on a dedicated VPS
+├── intel      — 14+ NFT/DeFi project scouts · WL/mint deadline alerts · scored CT alpha-feed
+├── execution  — pre-signed EVM sniper · SeaDrop minter · multi-wallet airdrop ops
+├── ops        — 17 scheduled jobs · zero-touch error handling · failure routing
+├── knowledge  — 318 procedural skills (research, security, social, delivery)
+└── content    — research → bilingual copy → designed visuals → short-form video
+```
+
+Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** — 340+ skills, jaga deadline sambil lo tidur.
+
 ## Receipts over promises
 
 - 🧾 **bounties** — shipped demos with receipts: ArmorCodex (First Dollar, Sep 2026), SignalShield (GatewayHacks 2026), usepaid deliverables.
@@ -54,7 +67,7 @@
 
 ## Currently
 
-![automation ecosystem](assets/ecosystem.png)
+![ONAR-77 ecosystem](assets/ecosystem.png)
 
 *interaktif: [assets/ecosystem.html](assets/ecosystem.html) (dark/light, pan/zoom, trace motion)*
 
