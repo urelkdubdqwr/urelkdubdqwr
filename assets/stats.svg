@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="10 projects shipped, 340 skills in inventory, 15 jobs in the cron army">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="10 projects shipped, 318 skills in inventory, 24 jobs in the cron army">
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="0" y2="170" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0C1018"/>
@@ -24,8 +24,8 @@
   <line x1="800" y1="42" x2="800" y2="128" class="div"/>
   <text x="200" y="102" class="num">10+</text>
   <text x="200" y="134" class="lbl">PROJECTS SHIPPED</text>
-  <text x="600" y="102" class="num">340</text>
+  <text x="600" y="102" class="num">318</text>
   <text x="600" y="134" class="lbl">SKILLS IN INVENTORY</text>
-  <text x="1000" y="102" class="num">15</text>
+  <text x="1000" y="102" class="num">24</text>
   <text x="1000" y="134" class="lbl">JOBS IN THE CRON ARMY</text>
 </svg>

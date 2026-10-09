@@ -6,7 +6,7 @@
 
 <img src="assets/header.svg" alt="STUDIO PINGGIR KASUR" width="100%">
 
-<img src="assets/stats.svg" alt="10+ projects shipped · 340 skills in inventory · 17 jobs in the cron army" width="100%">
+<img src="assets/stats.svg" alt="10+ projects shipped · 318 skills in inventory · 24 jobs in the cron army" width="100%">
 
 ## The one-liner
 
@@ -30,13 +30,13 @@ ONAR-77 · running 24/7 on a dedicated VPS
 └── content    — research → bilingual copy → designed visuals → short-form video
 ```
 
-Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** — 340+ skills, jaga deadline sambil lo tidur.
+Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** — 318 skills, jaga deadline sambil lo tidur.
 
 ## Receipts over promises
 
 - 🧾 **bounties** — shipped demos with receipts: ArmorCodex (First Dollar, Sep 2026), SignalShield (GatewayHacks 2026), usepaid deliverables.
 - 📣 **content** — research → bilingual copy → designed visuals → short-form video, end to end (incl. a fully automated 2-min explainer for a firstdollar.money bounty).
-- 🤖 **automation** — agent stack covering monitoring, deadlines, and reporting 24/7: [onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent) (340+ skills).
+- 🤖 **automation** — agent stack covering monitoring, deadlines, and reporting 24/7: [onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent) (318 skills).
 
 ## Projects
 
@@ -60,7 +60,7 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 ## Stack
 
 - **automation** — `Python` `Node.js` `cron` `GitHub Actions` · Linux/VPS ops
-- **agents** — Hermes Agent · 340+ skills, [Agent Skills spec](https://agentskills.io/specification)
+- **agents** — Hermes Agent · 318 skills, [Agent Skills spec](https://agentskills.io/specification)
 - **onchain** — `ethers` `viem` `Foundry` · testnet-first, mainnet cuma sama izin eksplisit
 - **trading** — MT5/MQL5 Expert Advisors headless on Linux (Wine) · LLM analyst ensemble research
 - **content** — bilingual copy EN/ID · designed visuals · short-form video, end to end
