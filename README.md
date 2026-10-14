@@ -92,7 +92,7 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 | X | [@onargudel](https://x.com/onargudel) |
 | Telegram | [@robigudel](https://t.me/robigudel) |
 | Discord | `urelkdubdqwr_` |
-| Link hub | [onar-links.vercel.app](https://onar-links.vercel.app) 📡 |
+| Link hub | [https://urelkdubdqwr.xyz/](https://urelkdubdqwr.xyz/) 📡 |
 
 *Available for Web3/CFD business development & community roles — remote, WIB (UTC+7), 24/7, English + Bahasa Indonesia.*
 
