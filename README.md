@@ -62,7 +62,7 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 | **[signalshield](https://github.com/urelkdubdqwr/signalshield)** | paste klaim Web3 → risk signals + evidence gaps. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
 | **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | autonomous intelligence + execution agent — scouts, deadlines, content. | `Python` `Hermes Agent` |
 | **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | ArmorCodex demo — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
-| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://onar-links.vercel.app) | satu pintu ke internet-nya ONAR-77. link hub, auto-deploy. | `HTML` `Vercel` |
+| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://studiopinggirkasur.xyz) | satu pintu ke internet-nya ONAR-77 — hub ngapus debu, sekarang jadi pintu ke studio. | `HTML` `Redirect` |
 | **[onar-77-mintbots](https://github.com/urelkdubdqwr/onar-77-mintbots)** | mint bot squad — pre-signed EVM sniper + station bot. | `Node.js` `ethers` |
 | **[dyor-arc-contest](https://github.com/urelkdubdqwr/dyor-arc-contest)** | ARC contest research + submission builds. | `Python` |
 | **[bounty-portfolio](https://github.com/urelkdubdqwr/bounty-portfolio)** | bounty demos with receipts — tiap submission ada buktinya. | `Mixed` |
@@ -102,7 +102,7 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 | X | [@onargudel](https://x.com/onargudel) |
 | Telegram | [@robigudel](https://t.me/robigudel) |
 | Discord | `urelkdubdqwr_` |
-| Link hub | [https://urelkdubdqwr.xyz/](https://urelkdubdqwr.xyz/) 📡 |
+| Website | [https://studiopinggirkasur.xyz/](https://studiopinggirkasur.xyz/) 📡 |
 
 *Available for Web3/CFD business development & community roles — remote, WIB (UTC+7), 24/7, English + Bahasa Indonesia.*
 
