@@ -1,12 +1,16 @@
-# urelkdubdqwr
+**[urelkdubdqwr](https://github.com/urelkdubdqwr)** · [website](https://studiopinggirkasur.xyz/)
 
-**Web3 Business Development · Community Growth · AI Automation Operator · Multi-Cycle OG (active since 2018).** I help Web3 teams grow — BD conversations, community ops (Discord/Telegram/X in EN + ID), campaign execution — with self-built automation handling monitoring, tracking, and content production 24/7 in the background. Human hours go to people and deals.
+<img src="assets/header.svg" alt="urelkdubdqwr — Studio Pinggir Kasur · one-man BD, community & ops machine powered by ONAR-77" width="100%">
 
 [![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-<img src="assets/header.svg" alt="STUDIO PINGGIR KASUR" width="100%">
-
 <img src="assets/stats.svg" alt="10+ projects shipped · 318 skills in inventory · 24 jobs in the cron army" width="100%">
+
+**One-man BD, community and ops machine for Web3 teams — powered by ONAR-77, my self-built agent that keeps working while I sleep. EN + ID, WIB (UTC+7), 24/7.**
+
+## What it is
+
+I help Web3 teams grow: BD conversations, community ops across Discord/Telegram/X in English and Bahasa Indonesia, campaign execution. The boring 80% — monitoring, deadline tracking, content production — runs on automation I built myself, so human hours go to people and deals. Active since 2018, multi-cycle OG. This repo is the studio noticeboard: who I am, what I run, and where the receipts are.
 
 ## The one-liner
 
@@ -31,6 +35,18 @@ ONAR-77 · running 24/7 on a dedicated VPS
 ```
 
 Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** — 318 skills, jaga deadline sambil lo tidur.
+
+## How it works
+
+![ONAR-77 ecosystem](assets/ecosystem.png)
+
+- **intel** feeds the pipeline — project scouts, whitelist + mint deadline alerts, and a scored alpha-feed from CT, so nothing drops while I'm asleep.
+- **execution** is simulate-first — pre-signed EVM sniper, SeaDrop minter, multi-wallet airdrop ops on burner wallets. Sign, never improvise.
+- **ops** is the cron army — 17 scheduled jobs with zero-touch error handling and failure routing: ada perubahan → ketahuan. aman → diem.
+- **knowledge** — 318 procedural skills (research, security, social, delivery) the agent pulls from per task.
+- **content** — one pipeline end to end: research → bilingual copy → designed visuals → short-form video.
+
+*interaktif: [assets/ecosystem.html](assets/ecosystem.html) (dark/light, pan/zoom, trace motion)*
 
 ## Receipts over promises
 
@@ -57,6 +73,12 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 - **sybil-safe ops** — burner wallets, strict secret hygiene, simulate before broadcast. main wallet gak pernah ketemu terminal.
 - **ship in public** — tiap bounty = demo jalan + laporan. receipts wajib. 🧾
 
+## Currently
+
+- nginap di Robinhood Chain, Arc, Polymarket
+- nge-farm airdrop testnet — pola manusia. robot yang ketahuan = robot gagal.
+- bounty masuk → demo keluar → receipts numpuk.
+
 ## Stack
 
 - **automation** — `Python` `Node.js` `cron` `GitHub Actions` · Linux/VPS ops
@@ -64,18 +86,6 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 - **onchain** — `ethers` `viem` `Foundry` · testnet-first, mainnet cuma sama izin eksplisit
 - **trading** — MT5/MQL5 Expert Advisors headless on Linux (Wine) · LLM analyst ensemble research
 - **content** — bilingual copy EN/ID · designed visuals · short-form video, end to end
-
-## Currently
-
-![ONAR-77 ecosystem](assets/ecosystem.png)
-
-*interaktif: [assets/ecosystem.html](assets/ecosystem.html) (dark/light, pan/zoom, trace motion)*
-
-- nginap di Robinhood Chain, Arc, Polymarket
-- nge-farm airdrop testnet — pola manusia. robot yang ketahuan = robot gagal.
-- bounty masuk → demo keluar → receipts numpuk.
-
-<img src="assets/rule.svg" alt="" width="100%">
 
 ## Background
 
@@ -96,7 +106,11 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 
 *Available for Web3/CFD business development & community roles — remote, WIB (UTC+7), 24/7, English + Bahasa Indonesia.*
 
----
+## License
+
+MIT — see [LICENSE](LICENSE).
+
+<img src="assets/rule.svg" alt="" width="100%">
 
 built at **STUDIO PINGGIR KASUR** — where midnight ideas wake up as morning commits. 🛏️ → 💻 → 🚀
 
