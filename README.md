@@ -59,6 +59,7 @@ Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** —
 | Project | What it be | Stack |
 | --- | --- | --- |
 | **[browser-anti-oom](https://github.com/urelkdubdqwr/browser-anti-oom)** | on-demand headless browser recipe — no RAM creep, no zombies, no 3 AM OOM kills. | `Bash` `Chromium` |
+| **[hermes-jailbreak-recipe](https://github.com/urelkdubdqwr/hermes-jailbreak-recipe)** | prompt-layer control buat agent self-hosted — 10 injection point, guard self-healing, jujur soal tembok bobot model (yang prompt gak bisa cabut). | `Python` `Bash` |
 | **[signalshield](https://github.com/urelkdubdqwr/signalshield)** | paste klaim Web3 → risk signals + evidence gaps. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
 | **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | autonomous intelligence + execution agent — scouts, deadlines, content. | `Python` `Hermes Agent` |
 | **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | ArmorCodex demo — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
