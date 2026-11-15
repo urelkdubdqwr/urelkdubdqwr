@@ -1,118 +1,27 @@
-**[urelkdubdqwr](https://github.com/urelkdubdqwr)** · [website](https://studiopinggirkasur.xyz/)
+# urelkdubdqwr
 
-<img src="assets/header.svg" alt="urelkdubdqwr — Studio Pinggir Kasur · one-man BD, community & ops machine powered by ONAR-77" width="100%">
+Web3 BD · community growth · AI automation operator. Building **ONAR-77** — a 24/7 autonomous
+intel & execution agent on a self-hosted Hermes runtime.
 
-[![CI](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/urelkdubdqwr/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+**What I do**
 
-<img src="assets/stats.svg" alt="10+ projects shipped · 318 skills in inventory · 24 jobs in the cron army" width="100%">
+- Web3 business development & community growth — multi-cycle contributor (Arbitrum, Aptos,
+  Optimism, Base, 1inch, GMX, Hyperliquid, dYdX).
+- Agent ops: 300+ procedural skills, 24-job cron army, model-gateway routing, pre-signed
+  on-chain execution, evidence-first runbooks.
 
-**One-man BD, community and ops machine for Web3 teams — powered by ONAR-77, my self-built agent that keeps working while I sleep. EN + ID, WIB (UTC+7), 24/7.**
+**Selected work**
 
-## What it is
+- [hermes-jailbreak-recipe](https://github.com/urelkdubdqwr/hermes-jailbreak-recipe) — 10-layer prompt
+  control for a self-hosted agent, self-healing guard + measured limits.
+- [internet-court](https://github.com/urelkdubdqwr/internet-court) · [signalshield](https://github.com/urelkdubdqwr/signalshield) ·
+  [genlayer-vouchguard](https://github.com/urelkdubdqwr/genlayer-vouchguard) — agent-commerce,
+  trust and verification tooling.
+- [browser-anti-oom](https://github.com/urelkdubdqwr/browser-anti-oom) — headless browser recipe that
+  survives a small VPS.
 
-I help Web3 teams grow: BD conversations, community ops across Discord/Telegram/X in English and Bahasa Indonesia, campaign execution. The boring 80% — monitoring, deadline tracking, content production — runs on automation I built myself, so human hours go to people and deals. Active since 2018, multi-cycle OG. This repo is the studio noticeboard: who I am, what I run, and where the receipts are.
+**Run anything here** — every repo has one Run block in its README. No extra setup beyond that.
 
-## The one-liner
+**Contact** — issue or DM here on GitHub · [studiopinggirkasur.xyz](https://studiopinggirkasur.xyz)
 
-> ex-HSE Safety Officer (48 months zero-accident, 1,500-headcount site) who went full-time Web3 — now a one-man BD, community, and ops machine, powered by self-built automation. EN/ID bilingual. WIB (UTC+7), 24/7.
-
-## What I do
-
-- **Business development & outreach** — pipeline prep, partner conversations, campaign design for NFT / L1-L2 / DAO / Launchpad / RWA teams.
-- **Community growth** — Discord-first + Telegram-first + X-first ops in EN and ID: onboarding, support, educational threads, feedback loops to project teams.
-- **AI automation** — self-built agent stack for the boring 80%: project monitors, whitelist & mint deadline watchdogs, alpha-feed intake with scoring, daily briefings, failure routing.
-- **On-chain execution** — pre-signed EVM mint sniper, OpenSea/SeaDrop drop minter, multi-wallet airdrop ops, testnet farming programs (Tempo, ARC, GIWA) — all simulated and replayable.
-
-## Flagship — ONAR-77
-
-```text
-ONAR-77 · running 24/7 on a dedicated VPS
-├── intel      — 14+ NFT/DeFi project scouts · WL/mint deadline alerts · scored CT alpha-feed
-├── execution  — pre-signed EVM sniper · SeaDrop minter · multi-wallet airdrop ops
-├── ops        — 17 scheduled jobs · zero-touch error handling · failure routing
-├── knowledge  — 318 procedural skills (research, security, social, delivery)
-└── content    — research → bilingual copy → designed visuals → short-form video
-```
-
-Showcase: **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** — 318 skills, jaga deadline sambil lo tidur.
-
-## How it works
-
-![ONAR-77 ecosystem](assets/ecosystem.png)
-
-- **intel** feeds the pipeline — project scouts, whitelist + mint deadline alerts, and a scored alpha-feed from CT, so nothing drops while I'm asleep.
-- **execution** is simulate-first — pre-signed EVM sniper, SeaDrop minter, multi-wallet airdrop ops on burner wallets. Sign, never improvise.
-- **ops** is the cron army — 17 scheduled jobs with zero-touch error handling and failure routing: ada perubahan → ketahuan. aman → diem.
-- **knowledge** — 318 procedural skills (research, security, social, delivery) the agent pulls from per task.
-- **content** — one pipeline end to end: research → bilingual copy → designed visuals → short-form video.
-
-*interaktif: [assets/ecosystem.html](assets/ecosystem.html) (dark/light, pan/zoom, trace motion)*
-
-## Receipts over promises
-
-- 🧾 **bounties** — shipped demos with receipts: ArmorCodex (First Dollar, Sep 2026), SignalShield (GatewayHacks 2026), usepaid deliverables.
-- 📣 **content** — research → bilingual copy → designed visuals → short-form video, end to end (incl. a fully automated 2-min explainer for a firstdollar.money bounty).
-- 🤖 **automation** — agent stack covering monitoring, deadlines, and reporting 24/7: [onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent) (318 skills).
-
-## Projects
-
-| Project | What it be | Stack |
-| --- | --- | --- |
-| **[browser-anti-oom](https://github.com/urelkdubdqwr/browser-anti-oom)** | on-demand headless browser recipe — no RAM creep, no zombies, no 3 AM OOM kills. | `Bash` `Chromium` |
-| **[hermes-jailbreak-recipe](https://github.com/urelkdubdqwr/hermes-jailbreak-recipe)** | prompt-layer control buat agent self-hosted — 10 injection point, guard self-healing, jujur soal tembok bobot model (yang prompt gak bisa cabut). | `Python` `Bash` |
-| **[signalshield](https://github.com/urelkdubdqwr/signalshield)** | paste klaim Web3 → risk signals + evidence gaps. GatewayHacks 2026, submitted + live. | `Python` `LLM tooling` |
-| **[onar-77-agent](https://github.com/urelkdubdqwr/onar-77-agent)** | autonomous intelligence + execution agent — scouts, deadlines, content. | `Python` `Hermes Agent` |
-| **[bounty-armorcodex](https://github.com/urelkdubdqwr/bounty-armorcodex)** | ArmorCodex demo — intent-based Bash security buat Codex. First Dollar Sep 2026. | `Bash` `OpenAI Codex` |
-| **[onar-links](https://github.com/urelkdubdqwr/onar-links)** [live ↗](https://studiopinggirkasur.xyz) | satu pintu ke internet-nya ONAR-77 — hub ngapus debu, sekarang jadi pintu ke studio. | `HTML` `Redirect` |
-| **[onar-77-mintbots](https://github.com/urelkdubdqwr/onar-77-mintbots)** | mint bot squad — pre-signed EVM sniper + station bot. | `Node.js` `ethers` |
-| **[dyor-arc-contest](https://github.com/urelkdubdqwr/dyor-arc-contest)** | ARC contest research + submission builds. | `Python` |
-| **[bounty-portfolio](https://github.com/urelkdubdqwr/bounty-portfolio)** | bounty demos with receipts — tiap submission ada buktinya. | `Mixed` |
-
-## How the studio runs
-
-- **cron army** — 17 jobs: NFT deadline watchdog, airdrop farms, bounty radar, daily briefings. ada perubahan → ketahuan. aman → diem.
-- **sybil-safe ops** — burner wallets, strict secret hygiene, simulate before broadcast. main wallet gak pernah ketemu terminal.
-- **ship in public** — tiap bounty = demo jalan + laporan. receipts wajib. 🧾
-
-## Currently
-
-- nginap di Robinhood Chain, Arc, Polymarket
-- nge-farm airdrop testnet — pola manusia. robot yang ketahuan = robot gagal.
-- bounty masuk → demo keluar → receipts numpuk.
-
-## Stack
-
-- **automation** — `Python` `Node.js` `cron` `GitHub Actions` · Linux/VPS ops
-- **agents** — Hermes Agent · 318 skills, [Agent Skills spec](https://agentskills.io/specification)
-- **onchain** — `ethers` `viem` `Foundry` · testnet-first, mainnet cuma sama izin eksplisit
-- **trading** — MT5/MQL5 Expert Advisors headless on Linux (Wine) · LLM analyst ensemble research
-- **content** — bilingual copy EN/ID · designed visuals · short-form video, end to end
-
-## Background
-
-| | |
-| --- | --- |
-| 🛡️ **HSE/K3 Safety Officer** — PT Stealth Co (2019–2023) | 48 months zero-accident · 95% compliance audit · <1 incident/month on 1,500 headcount |
-| 🌐 **Web3 since 2018** | multi-cycle: Arbitrum builder 2021–2023 · contributor across Aptos, Optimism, Base, 1inch, Tokocrypto, GMX, Hyperliquid, dYdX |
-| 🎓 **Education** | SMK — Engineering (2018) · Bankless Academy 101 · Consensys Academy · Alchemy University |
-
-## Find me
-
-| Channel | Handle |
-| --- | --- |
-| X | [urelkdubdqwr](https://x.com/urelkdubdqwr) |
-| Telegram | [urelkdubdqwr](https://t.me/urelkdubdqwr) |
-| Discord | `urelkdubdqwr` |
-| Website | [https://studiopinggirkasur.xyz/](https://studiopinggirkasur.xyz/) 📡 |
-
-*Available for Web3/CFD business development & community roles — remote, WIB (UTC+7), 24/7, English + Bahasa Indonesia.*
-
-## License
-
-MIT — see [LICENSE](LICENSE).
-
-<img src="assets/rule.svg" alt="" width="100%">
-
-built at **STUDIO PINGGIR KASUR** — where midnight ideas wake up as morning commits. 🛏️ → 💻 → 🚀
-
-🦂 → 🦅 → 🔥
+<sub>Kept deliberately minimal: the useful part is the code, not a personal dossier.</sub>
